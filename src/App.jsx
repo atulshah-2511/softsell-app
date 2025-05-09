@@ -1,9 +1,9 @@
-import React from 'react';
+
 import Hero from './components/Hero';
 import Working from './components/Working';
 import ChooseUs from './components/Choose';
 import Testimonials from './components/Testimonials';
-import ContactForm from './components/contactForm';
+import ContactForm from './components/ContactForm';
 
 const App = () => (
   <div>
